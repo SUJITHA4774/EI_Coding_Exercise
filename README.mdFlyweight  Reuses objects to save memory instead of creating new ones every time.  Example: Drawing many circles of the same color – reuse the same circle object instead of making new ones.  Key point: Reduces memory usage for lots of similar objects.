@@ -1,0 +1,7 @@
+Flyweight
+
+Reuses objects to save memory instead of creating new ones every time.
+
+Example: Drawing many circles of the same color – reuse the same circle object instead of making new ones.
+
+Key point: Reduces memory usage for lots of similar objects.
